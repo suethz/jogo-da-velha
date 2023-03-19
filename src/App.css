@@ -87,7 +87,7 @@ span:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 50px;
+    margin-top: 20px;
     font-size: 20px;
     letter-spacing: 1px;
     font-family: sans-serif;
@@ -119,8 +119,8 @@ span:hover {
     width: 100px;
     height: 30px;
     font-size: 18px;
-    color: #272727;
-    background-color: deepskyblue;
+    color: #ffffff;
+    background-color: rgb(25, 122, 191);
     border: none;
     border-radius: 5px;
     cursor: pointer;
